@@ -9,7 +9,6 @@
 - Image import support (index.d.ts)
 - [SASS](http://sass-lang.com/) support
 - Code linting ([ESLint](https://github.com/eslint/eslint)) and formatting ([Prettier](https://github.com/prettier/prettier))
-- Supports both JS and TS
 
 ## Installation
 
