@@ -47,6 +47,12 @@
 
 **Note**: replace `yarn` with `npm` in `package.json` if you use npm.
 
+## LIVE DEMO
+
+<p align="center"> 
+    <img src="src/assets/boilerplate.gif" align="center"></img>
+</p>
+
 ## Reference
 
 - [Create React App](https://github.com/facebook/create-react-app)
